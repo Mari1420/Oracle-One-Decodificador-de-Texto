@@ -1,4 +1,4 @@
-# ❗❗ Challenge Oracle ONE: Decodificador de Texto ❗❗
+# ❗Challenge Oracle ONE: Decodificador de Texto ❗
 
 Repositório do challenge Oracle ONE Decodificador de Texto
 
